@@ -2,6 +2,16 @@ Welcome to our file
 
 thsi is a new line by me
 
-secound line by me 
+git init 
+git status 
+git add .
+git commit -m "added new file "
+--------------------------------
+git log (each commit track )
 
-Third line modification
+
+git branch -M main
+git remote add origin  httpts; 
+git push origin main 
+
+
